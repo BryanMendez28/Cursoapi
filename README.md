@@ -1,1 +1,1 @@
-APP COURSES
+CoursesApi
